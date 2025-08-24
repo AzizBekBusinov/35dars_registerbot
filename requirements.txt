@@ -1,9 +1,11 @@
+urllib3==1.26.15
+python-telegram-bot==13.15
 APScheduler==3.6.3
 cachetools==4.2.2
-certifi==2025.8.3
-python-telegram-bot==13.15
+certifi==2024.8.30
 pytz==2025.2
 six==1.17.0
 tornado==6.1
 tzdata==2025.2
 tzlocal==5.3.1
+## pip install -r requirements.txt --force-reinstall
